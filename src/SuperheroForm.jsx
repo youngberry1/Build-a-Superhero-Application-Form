@@ -1,4 +1,4 @@
-const { useState } = React;
+import { useState } from 'react';
 
 export const SuperheroForm = () => {
    const powerSourceOptions = [

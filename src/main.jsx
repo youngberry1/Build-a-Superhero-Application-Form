@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { SuperheroForm } from './index.jsx';
+import { SuperheroForm } from './SuperheroForm';
+import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
    <React.StrictMode>
